@@ -25,15 +25,14 @@ Python 3.7+
 # Установка:
 
 1. Клонируйте репозиторий:
- git clone https://github.com/ваш-username/виселица.git
-
+git clone https://github.com/ваш-username/виселица.git
 cd виселица
 
 2. Установите зависимости:
- pip install -r requirements.txt
+pip install -r requirements.txt
 
 3. Запустите приложение:
- streamlit run app.py
+streamlit run app.py
 
 # Структура проекта:
 
@@ -42,7 +41,7 @@ cd виселица
 
 # Как играть
 
-1.Запустите приложение
+1. Запустите приложение
 
 2. Вводите по одной русской букве за раз
 
